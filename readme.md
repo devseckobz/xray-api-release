@@ -8,7 +8,7 @@ bash install.sh
 
 安装目录: `/usr/local/xrayApi/`
 
-配置文件: `/usr/local/xrayApi/config.json`
+配置文件: `/usr/local/xrayApi/config.yaml`
 
 启动: `systemctl start xrayApi`
 
